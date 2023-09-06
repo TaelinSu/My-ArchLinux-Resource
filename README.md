@@ -4,7 +4,7 @@ Zafiro-nord-icons-MOD nord is a fork of the icon pack zafiro-nord-black, I add m
 
 ## Download and testing
 
-Download the .zip file in release.
+Just download the .zip file.
 
 ## Installing the icons
 
