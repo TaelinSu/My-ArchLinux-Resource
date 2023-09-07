@@ -1,16 +1,10 @@
-# Zafiro-nord-icons-MOD
+# Introduction
 
-Zafiro-nord-icons-MOD nord is a fork of the icon pack zafiro-nord-black, I add more icons for Gnome Desktop and change some applications' icons.
+- Zafiro-nord-icons-MOD nord is a fork of the icon pack zafiro-nord-black, I add more icons for Gnome Desktop and change some applications' icons.
+- The dotfiles.zip contains my configurations of mpv, kitty and nvim. You can move the mpv and kitty folder to your ~/.config to use them.
 
-## Download and testing
+## Installing
 
-Just download the .zip file.
+   - Download and unzip the Zafiro-Nord-Black.zip and move the folder of icons to `~/.local/share/icons` (in user mode) or `/usr/share/icons` (in root mode).
+   - The icon theme will be in the Gnome Tweaks for select.
 
-## Installing the icons
-
-   - Unzip the Zafiro-Nord-Black.zip.zip file and move the folder of icons to `~/.local/share/icons` (in user mode) or `/usr/share/icons` (in root mode).
-   - The icon theme will be in the Settings for select
-
-# My dotfiles and wallpapers
-
-The dotfiles.zip contains my configurations of mpv, kitty and nvim. You can move the mpv and kitty folder to your ~/.config to use them.
