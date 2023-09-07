@@ -8,9 +8,9 @@ Just download the .zip file.
 
 ## Installing the icons
 
-   - Unzip the .zip file and move the folder of icons to `~/.local/share/icons` (in user mode) or `/usr/share/icons` (in root mode).
+   - Unzip the Zafiro-Nord-Black.zip.zip file and move the folder of icons to `~/.local/share/icons` (in user mode) or `/usr/share/icons` (in root mode).
    - The icon theme will be in the Settings for select
 
-## Preview
+# My dotfiles and wallpapers
 
-![Preview](https://raw.githubusercontent.com/zayronxio/Zafiro-Nord-Dark/master/preview/preview.png)
+The dotfiles.zip contains my configurations of mpv, kitty and nvim. You can move the mpv and kitty folder to your ~/.config to use them.
